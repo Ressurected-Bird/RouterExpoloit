@@ -1,3 +1,3 @@
 import colorama 
 from colorama import *
-print(Fore.RED,"Hello World")
+print(Fore.BLACK+Fore.GREEN,"Hello World")
