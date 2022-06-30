@@ -1,3 +1,4 @@
 colorama
 roscraco
 requets
+arduino-python3
