@@ -1,2 +1,4 @@
 # RouterExpoloit-
-A python Script to Attach the Router and ohter sub-system  
+A python Script to attack the router and other subsystem 
+# Version 
+Currently in development stage   
