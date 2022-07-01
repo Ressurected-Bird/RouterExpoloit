@@ -25,4 +25,4 @@ cd RouterExpolit
 
 or 
 
-Go to [RessurectedBird](https://ressurectedbird.netlify.app/)  
+Go to [RessurectedBird](https://ressurectedbird.netlify.app/) and purchase it from there   
