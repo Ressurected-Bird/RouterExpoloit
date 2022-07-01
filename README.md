@@ -5,4 +5,10 @@ the version of the Application is 1.o
 # Features 
 * Arduino 
 * Router 
-* Rasbbery pie   
+* Rasbbery pie 
+# Testing 
+The script has been Tested on the following Opreating system 
+* Windows
+* Kali 
+* Parrot  
+  
