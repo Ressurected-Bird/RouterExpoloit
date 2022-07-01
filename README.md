@@ -25,4 +25,4 @@ cd RouterExpolit
 
 or 
 
-Go to [RessurectedBird](Ressurectedbird.netlify.app)  
+Go to [RessurectedBird](https://ressurectedbird.netlify.app/)  
