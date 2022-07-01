@@ -13,4 +13,11 @@ The script has been Tested on the following Opreating system
 * Parrot  
 # Emulators 
 Will this script work on the Linux Emulator's ?
-Yes , this will  work on any kind of emulators   
+Yes , this will  work on any kind of emulators
+# How to download 
+``
+git clone RessurectedBird 
+``
+``
+cd RouterExpolit
+``
