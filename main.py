@@ -6,19 +6,22 @@ try:
 except Exception as e:
     print(f'{e}')
 while(1):
-    
-    print(Fore.BLACK+Fore.GREEN,"\t \t RouterExpolit")
-    print("\n \t\t By RessurectedBird")
-    print("\t 1.Arduino \t 2.Router")
-    print("\t 3. Rasberrypi\t 4. ")
-    print("\n")
-    option=int(input(">>>>>\t"))
-    if option==1:
-        print("I'm in the If else")
-    if option==2:
-        print("I'm in the else condiont")
-    if option==3:
-        print(" I'm in the third option ")
-    if option==5:
-        time.sleep(1)
-        break
+    try:
+        print()
+        print(Fore.BLACK+Fore.GREEN,"\t \t RouterExpolit")
+        print("\n \t\t By RessurectedBird")
+        print("\t1.Arduino \t2.Router")
+        print("\t3. Rasberrypi\t4.Exit ")
+        print("\n")
+        option=int(input(">>>>>\t"))
+        if option==1:
+            print("I'm in the If else")
+        if option==2:
+            print("I'm in the else condiont")
+        if option==3:
+            print(" I'm in the third option ")
+        if option==4:
+            time.sleep(1)
+            break
+    except Exception as e :
+        print(f"Unexpected Error {e}")
