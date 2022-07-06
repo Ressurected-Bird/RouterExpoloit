@@ -7,6 +7,7 @@ except Exception as e:
     print(f'{e}')
 while(1):
     try:
+        modules.check()
         print()
         print(Fore.BLACK+Fore.GREEN,"\t \t RouterExpolit")
         print("\n \t\t By RessurectedBird")
