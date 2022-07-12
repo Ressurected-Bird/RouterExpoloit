@@ -1,7 +1,7 @@
 import sys
 def check():
     version=sys.version
-    if version==sys.version:
+    if version>=sys.version:
         print("Yo've installed the corrected version")
         
         

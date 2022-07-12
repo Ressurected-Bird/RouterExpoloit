@@ -13,7 +13,7 @@ while(1):
         print("\n \t By RessurectedBird")
         print("\n")
         print("\t1.Mimt \t2.Network Sniffer")
-        print("\t3. Credentials Harvesting\t4.Exit ")
+        print("\t3.Credentials Harvesting\t4.Exit ")
         print("\t5.update ")
         print("\n")
         option=int(input(">>>>>\t"))
