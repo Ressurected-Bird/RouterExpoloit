@@ -1,5 +1,6 @@
 try:
     from modules.version import *
+    from modules.update import *
     from colorama import *
     import colorama
     import time
@@ -26,5 +27,7 @@ while(1):
         if option==4:
             time.sleep(1)
             break
+        if option==5:
+            update()
     except Exception as e :
         print(f"Unexpected Error {e}")
