@@ -11,9 +11,9 @@ while(1):
     try:
         check()
         print()
+        
+        print(Fore.BLACK+Fore.BLUE,"\t\t  RouterExpoilt")
         print(Fore.BLACK+Fore.GREEN)
-        log=pyfiglet=pyfiglet.figlet_format("RouterExpoilt", font ="digital")
-        print(log)
         print("\t\t By RessurectedBird")
         print("\n")
         print("\t1.Mimt \t2.Network Sniffer")
