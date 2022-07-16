@@ -1,4 +1,5 @@
 try:
+    from submodules.mimfun import * 
     import cowsay
     import colorama as c
     from colorama import *
@@ -14,3 +15,5 @@ def banner():
 
 s.system("clear");
 banner();
+print("\n")
+
