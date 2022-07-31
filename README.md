@@ -26,3 +26,6 @@ cd RouterExpolit
 or 
 
 Go to [RessurectedBird](https://ressurectedbird.netlify.app/) and purchase it from there   
+
+# Demonstration 
+[![asciicast](https://asciinema.org/a/6CWuuwIDqvt0xxg06L5PABAGM.svg)](https://asciinema.org/a/6CWuuwIDqvt0xxg06L5PABAGM)
